@@ -1,0 +1,49 @@
+body {
+    background-image: url(https://previews.123rf.com/images/palau83/palau831404/palau83140400993/27208511-seamless-background-printer.jpg);
+}
+
+.container {
+    width: 500px;
+    height: 400px;
+    background: rgba(94, 78, 168, 0.788);
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 50px;
+}
+
+h3 {
+    line-height: 2px;
+}
+
+form {
+    margin-top: 40px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgb(198, 138, 216);
+    border-radius: 30px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 30px;
+    background: rgb(68, 35, 121);
+    color: rgb(186, 124, 211);
+}
+
+.register {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register a {
+    text-decoration: none;
+    color: rgb(87, 22, 112);
+}
